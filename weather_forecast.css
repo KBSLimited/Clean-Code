@@ -1,0 +1,8 @@
+weather_forecast/
+│
+├── main.py
+├── weather_app/
+│   ├── __init__.py
+│   ├── data_fetcher.py
+│   ├── data_parser.py
+│   └── user_interface.py
